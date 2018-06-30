@@ -1,6 +1,6 @@
 require 'csv'
 require 'awesome_print'
-require 'catpix_mini'
+require 'catpix'
 require 'launchy'
 
 
@@ -32,7 +32,7 @@ def explore_planet()
       Launchy.open($selected_planet[:uri])
       return
     when "see"
-      CatpixMini::print_image $selected_planet[:image]
+      Catpix::print_image $selected_planet[:image]
       return
     else
       ap prompt
