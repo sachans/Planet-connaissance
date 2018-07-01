@@ -30,3 +30,16 @@ Run planets.rb file
 ```
 ruby planets.rb
 ```
+
+## Example
+
+### Input
+```
+ruby planets.rb
+```
+
+### Output
+
+![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
+![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
+![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
