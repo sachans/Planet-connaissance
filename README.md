@@ -41,5 +41,5 @@ ruby planets.rb
 ### Output
 
 ![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
-![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
-![image](https://github.com/sachans/Planet-connaissance/example_images/1.png)
+![image](https://github.com/sachans/Planet-connaissance/example_images/2.png)
+![image](https://github.com/sachans/Planet-connaissance/example_images/3.png)
