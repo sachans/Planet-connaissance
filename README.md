@@ -42,7 +42,7 @@ ruby planets.rb
 
 ![image](https://github.com/sachans/Planet-connaissance/blob/master/example_images/1.png)
 
-![image](https://github.com/sachans/Planet-connaissance/blob/master/example_images/1.png)
+![image](https://github.com/sachans/Planet-connaissance/blob/master/example_images/2.png)
 
-![image](https://github.com/sachans/Planet-connaissance/blob/master/example_images/1.png)
+![image](https://github.com/sachans/Planet-connaissance/blob/master/example_images/3.png)
 
