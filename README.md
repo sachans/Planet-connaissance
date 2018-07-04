@@ -7,28 +7,14 @@ A ruby program which gives information about planet and make it's picture in ter
 ```
 Ruby >= 1.8.7
 Rmagick or MiniMagick
+bundler
 ```
 
 ## Installation
-### Step 1: 
-Go in sudo mode.
 ```
-su 
-```
-### Step 2:
-Install these packages
-```
-gem install csv awesome_print launchy
-```
-### Step 3:
-Install Catpix
-```
-gem install catpix
-```
-### Step 4:
+cd Planet-connaissance
+bundle install
 Run planets.rb file
-```
-ruby planets.rb
 ```
 
 ## Example
