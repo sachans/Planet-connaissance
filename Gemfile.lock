@@ -1,0 +1,31 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    awesome_print (1.8.0)
+    catpix (0.2.0)
+      docopt (~> 0.5, >= 0.5.0)
+      rmagick (~> 2.15, >= 2.15.2)
+      ruby-terminfo (~> 0.1, >= 0.1.1)
+      tco (~> 0.1, >= 0.1.8)
+    csv (3.0.0)
+    docopt (0.6.1)
+    launchy (2.4.3)
+      addressable (~> 2.3)
+    public_suffix (3.0.2)
+    rmagick (2.16.0)
+    ruby-terminfo (0.1.1)
+    tco (0.1.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  catpix
+  csv
+  launchy
+
+BUNDLED WITH
+   1.16.2
