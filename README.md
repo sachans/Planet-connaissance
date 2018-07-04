@@ -14,7 +14,7 @@ bundler
 ```
 cd Planet-connaissance
 bundle install
-Run planets.rb file
+ruby planets.rb
 ```
 
 ## Example
